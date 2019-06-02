@@ -1,4 +1,5 @@
+TOKEN = 
 
-
-SOCKS_PROXY = 'socks5h://162.243.210.52:20935/'
-HTTP_PROXY = 'http://101.50.1.2:80'
+REQUEST_KWARGS = {
+    'proxy_url': 'http://138.201.223.250:31288'
+}
